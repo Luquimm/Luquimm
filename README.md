@@ -53,13 +53,4 @@ Gosto de explorar novas tecnologias, personalizar interfaces e transformar ideia
 
 ---
 
-## 💡 Filosofia
-
-Programação é sobre aprender, criar e melhorar constantemente.
-Cada projeto é uma oportunidade de evoluir.
-
-> **"Aprendendo um passo de cada vez."**
-
----
-
 ⭐ Obrigado por visitar meu perfil!

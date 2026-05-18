@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Luquim</h1>
 
-<!--
-**Luquimm/Luquimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Front-End Beginner Developer <br>
+  ⚡ Learning HTML, CSS & JavaScript <br>
+  🐧 Linux User <br>
+  🚀 Building cool projects
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,github" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+![Luquim GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true)
+
+---
+
+### 🌎 Socials
+
+Discord: luquim67

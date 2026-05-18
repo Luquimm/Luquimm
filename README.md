@@ -1,6 +1,5 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
-> **"Aprendendo um passo de cada vez."**
 
 ---
 

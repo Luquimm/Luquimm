@@ -25,4 +25,4 @@
 
 ### 🌎 Socials
 
-Discord: luquim67
+Discord: kklukks

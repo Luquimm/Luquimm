@@ -12,7 +12,7 @@
 ### 🚀 Technologies
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,jsb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
 ---

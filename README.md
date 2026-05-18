@@ -31,9 +31,13 @@ Gosto de explorar novas tecnologias, personalizar interfaces e transformar ideia
 ## 🎯 O Que Estou Fazendo
 
 ✅ Aprendendo desenvolvimento frontend
+
 ✅ Criando sites modernos e responsivos
+
 ✅ Estudando Linux e tecnologia
+
 ✅ Construindo projetos para meu portfólio
+
 ✅ Evoluindo um pouco todos os dias
 
 ---

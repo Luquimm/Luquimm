@@ -5,9 +5,9 @@
 
 ## 🚀 Sobre Mim
 
-Sou um estudante apaixonado por tecnologia e desenvolvimento web. Atualmente estudo **HTML, CSS e JavaScript**, criando projetos para evoluir minhas habilidades e aprender mais sobre programação todos os dias.
+Sou um estudante apaixonado por tecnologia e desenvolvimento web. Atualmente estudo **HTML, CSS e JavaScript**.
 
-Gosto de explorar novas tecnologias, personalizar interfaces e transformar ideias em projetos reais.
+Gosto de transformar ideias em projetos reais sempre que possivel.
 
 ---
 
@@ -30,25 +30,16 @@ Gosto de explorar novas tecnologias, personalizar interfaces e transformar ideia
 
 ## 🎯 O Que Estou Fazendo
 
-✅ Aprendendo desenvolvimento frontend
+✅ Aprendendo desenvolvimento front-end
 
-✅ Criando sites modernos e responsivos
+✅ Criando sites modernos
 
-✅ Estudando Linux e tecnologia
+✅ Estudando Linux
 
 ✅ Construindo projetos para meu portfólio
 
-✅ Evoluindo um pouco todos os dias
-
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=dark\&hide_border=true)
-
----
 
 ## 🔗 Contato
 
